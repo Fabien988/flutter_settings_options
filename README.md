@@ -6,11 +6,13 @@
 This is a simple flutter plugin for easily creating app settings screens.
 The unique thing about this library is that it is not dependent upon any specific storage library used to store settings.
 
-Inspired by the [shared_preferences_settings](https://pub.dev/packages/shared_preferences_settings) plugin.
+Inspired by the [shared_preferences_settings](https://pub.dev/packages/shared_preferences_settings) and https://github.com/GAM3RG33K/flutter_settings_screens plugin.
 
 **Now with Null-safety.**
 
 ## Features
+  - Change color Title band
+  - or remove Title band 
   - A collection of settings widgets to make a settings page in a few seconds and get going.
     - **Normal**:
       - SimpleSettingsTile
@@ -21,6 +23,7 @@ Inspired by the [shared_preferences_settings](https://pub.dev/packages/shared_pr
       - Slider setting
       - Color choice panel
       - Text Input Setting
+      - Range Slider setting 
     - **Advanced**:
       - SettingsScreen:
         > A Flutter Widget/Page which can contain all settings widget.
