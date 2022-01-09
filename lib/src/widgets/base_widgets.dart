@@ -82,9 +82,6 @@ class SettingsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(title),
-      ),
       body: ListView.builder(
         shrinkWrap: true,
         itemCount: children.length,
