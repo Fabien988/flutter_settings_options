@@ -11,8 +11,7 @@ Inspired by the [shared_preferences_settings](https://pub.dev/packages/shared_pr
 **Now with Null-safety.**
 
 ## Features
-  - Change color Title band
-  - or remove Title band 
+  - with No appBar
   - A collection of settings widgets to make a settings page in a few seconds and get going.
     - **Normal**:
       - SimpleSettingsTile
